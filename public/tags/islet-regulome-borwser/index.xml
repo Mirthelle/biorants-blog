@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Islet Regulome Borwser | Bio-Rants</title>
+    <link>/tags/islet-regulome-borwser/</link>
+      <atom:link href="/tags/islet-regulome-borwser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Islet Regulome Borwser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Islet Regulome Borwser</title>
+      <link>/tags/islet-regulome-borwser/</link>
+    </image>
+    
+    <item>
+      <title>Islet Regulome Browser</title>
+      <link>/project/islet-regulome-browser/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/islet-regulome-browser/</guid>
+      <description>&lt;p&gt;What is this text? Yes yes is a summary of the project&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

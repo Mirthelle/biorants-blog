@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Bio-Rants</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,19 +15,353 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I am a PhD fellow interested in understanding the epigenetic mechanisms of gene regulation in disease-relevant conditions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Allan Linneberg</title>
+      <link>/authors/allan-linneberg/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/allan-linneberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anette P. Gjesing</title>
+      <link>/authors/anette-p.-gjesing/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/anette-p.-gjesing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthony Beucher</title>
+      <link>/authors/anthony-beucher/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/anthony-beucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biola M. Javierre</title>
+      <link>/authors/biola-m.-javierre/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/biola-m.-javierre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claire C. Morgan</title>
+      <link>/authors/claire-c.-morgan/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/claire-c.-morgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel R. Witte</title>
+      <link>/authors/daniel-r.-witte/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-r.-witte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Torrents</title>
+      <link>/authors/david-torrents/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-torrents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delphine M. Y. Rolando</title>
+      <link>/authors/delphine-m.-y.-rolando/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/delphine-m.-y.-rolando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eelco J. P. de Koning</title>
+      <link>/authors/eelco-j.-p.-de-koning/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eelco-j.-p.-de-koning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emil V. R. Appel</title>
+      <link>/authors/emil-v.-r.-appel/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/emil-v.-r.-appel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>François Pattou</title>
+      <link>/authors/francois-pattou/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/francois-pattou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goutham Atla</title>
+      <link>/authors/goutham-atla/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/goutham-atla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignasi Morán</title>
+      <link>/authors/ignasi-moran/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ignasi-moran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ines Cebola</title>
+      <link>/authors/ines-cebola/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ines-cebola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inga Prokopenko</title>
+      <link>/authors/inga-prokopenko/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/inga-prokopenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irene Farabella</title>
+      <link>/authors/irene-farabella/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/irene-farabella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irene Miguel-Escalada</title>
+      <link>/authors/irene-miguel-escalada/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/irene-miguel-escalada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iryna O. Fedko</title>
+      <link>/authors/iryna-o.-fedko/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/iryna-o.-fedko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier García-Hurtado</title>
+      <link>/authors/javier-garcia-hurtado/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/javier-garcia-hurtado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Ponsa-Cobas</title>
+      <link>/authors/joan-ponsa-cobas/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joan-ponsa-cobas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Ferrer</title>
+      <link>/authors/jorge-ferrer/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jorge-ferrer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep M. Mercader</title>
+      <link>/authors/josep-m.-mercader/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/josep-m.-mercader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julen Mendieta-Esteban</title>
+      <link>/authors/julen-mendieta-esteban/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/julen-mendieta-esteban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julie Kerr-Conte</title>
+      <link>/authors/julie-kerr-conte/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/julie-kerr-conte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leif Groop</title>
+      <link>/authors/leif-groop/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/leif-groop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Pasquali</title>
+      <link>/authors/lorenzo-pasquali/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lorenzo-pasquali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Piemonti</title>
+      <link>/authors/lorenzo-piemonti/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lorenzo-piemonti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc A. Marti-Renom</title>
+      <link>/authors/marc-a.-marti-renom/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-a.-marti-renom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niels Grarup</title>
+      <link>/authors/niels-grarup/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/niels-grarup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oluf Pedersen</title>
+      <link>/authors/oluf-pedersen/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/oluf-pedersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Fraser</title>
+      <link>/authors/peter-fraser/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-fraser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philippe Ravassard</title>
+      <link>/authors/philippe-ravassard/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/philippe-ravassard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Bonàs-Guarch</title>
+      <link>/authors/silvia-bonas-guarch/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/silvia-bonas-guarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Berney</title>
+      <link>/authors/thierry-berney/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/thierry-berney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torben Hansen</title>
+      <link>/authors/torben-hansen/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/torben-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Zhang</title>
+      <link>/authors/jia-zhang/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jia-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus H. Kaestner</title>
+      <link>/authors/klaus-h.-kaestner/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/klaus-h.-kaestner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristy Ou</title>
+      <link>/authors/kristy-ou/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/kristy-ou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria L. Golson</title>
+      <link>/authors/maria-l.-golson/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-l.-golson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vasumathi Kameswaran</title>
+      <link>/authors/vasumathi-kameswaran/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/vasumathi-kameswaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue J. Wang</title>
+      <link>/authors/yue-j.-wang/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yue-j.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helena Raurell-Vila</title>
+      <link>/authors/helena-raurell-vila/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/helena-raurell-vila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loris Mularoni</title>
+      <link>/authors/loris-mularoni/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/loris-mularoni/</guid>
       <description></description>
     </item>
     

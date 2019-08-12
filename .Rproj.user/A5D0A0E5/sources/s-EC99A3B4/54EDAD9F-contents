@@ -1,0 +1,49 @@
+---
+abstract: "Type 2 diabetes mellitus (T2DM) is characterized by the inability of the insulin-producing $\beta$-cells to overcome insulin resistance. We previously identified an imprinted region on chromosome 14, the DLK1-MEG3 locus, as being downregulated in islets from humans with T2DM. In this study, using targeted epigenetic modifiers, we prove that increased methylation at the promoter of Meg3 in mouse $\beta$TC6 $\beta$-cells results in decreased transcription of the maternal transcripts associated with this locus. As a result, the sensitivity of $\beta$-cells to cytokine-mediated oxidative stress was increased. Additionally, we demonstrate that an evolutionarily conserved intronic region at the MEG3 locus can function as an enhancer in $\beta$TC6 $\beta$-cells. Using circular chromosome conformation capture followed by high-throughput sequencing, we demonstrate that the promoter of MEG3 physically interacts with this novel enhancer and other putative regulatory elements in this imprinted region in human islets. Remarkably, this enhancer is bound in an allele-specific manner by the transcription factors FOXA2, PDX1, and NKX2.2. Overall, these data suggest that the intronic MEG3 enhancer plays an important role in the regulation of allele-specific expression at the imprinted DLK1-MEG3 locus in human $\beta$-cells, which in turn impacts the sensitivity of $\beta$-cells to cytokine-mediated oxidative stress."
+authors:
+- Vasumathi Kameswaran
+- Maria L. Golson
+- "**admin**"
+- Kristy Ou
+- Yue J. Wang
+- Jia Zhang
+- Lorenzo Pasquali
+- Klaus H. Kaestner   
+date: "2018-09-01T00:00:00Z"
+doi: "10.1038/s41588-019-0457-0"
+featured: true
+image:
+  caption: '[The Islet Regulome Browser](http://www.isletregulome.org)'
+  focal_point: ""
+  preview_only: false
+projects: [] #Islet-Regulome-Browser
+publication: '*Nature Genetics*'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2018-09-01T00:00:00Z"
+slides: [] #example
+summary: []
+tags:
+- T2D
+- 4C-seq
+title: The Dysregulation of the DLK1-MEG3 Locus in Islets From Patients With Type 2 Diabetes Is Mimicked by Targeted Epimutation of Its Promoter With TALE-DNMT Constructs
+url_code: ""
+url_dataset: ""
+url_pdf: https://diabetes.diabetesjournals.org/content/67/9/1807.full-text.pdf
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
