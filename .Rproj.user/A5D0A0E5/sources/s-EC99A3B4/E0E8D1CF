@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565633196763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E0E8D1CF",
+    "lastKnownWriteTime" : 1565633209,
+    "last_content_update" : 1565633209930,
+    "path" : "~/biorants-blog/content/home/projects.md",
+    "project_path" : "content/home/projects.md",
+    "properties" : {
+        "cursorPosition" : "67,26",
+        "scrollLine" : "40"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

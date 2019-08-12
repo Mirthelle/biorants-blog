@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565633248146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D1D0FF30",
+    "lastKnownWriteTime" : 1565622185,
+    "last_content_update" : 1565622185,
+    "path" : "~/biorants-blog/content/home/hero.md",
+    "project_path" : "content/home/hero.md",
+    "properties" : {
+        "cursorPosition" : "4,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

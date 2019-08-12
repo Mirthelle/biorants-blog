@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565633082298.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8179C82C",
+    "lastKnownWriteTime" : 1565633162,
+    "last_content_update" : 1565633162530,
+    "path" : "~/biorants-blog/content/home/talks.md",
+    "project_path" : "content/home/talks.md",
+    "properties" : {
+        "cursorPosition" : "60,26",
+        "scrollLine" : "36"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
