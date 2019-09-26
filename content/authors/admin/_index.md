@@ -9,7 +9,7 @@ education:
     institution: Universitat de Barcelona
     year: Currently
   - course: MsC in Bioinformatics
-    institution: Universidad de Murica
+    institution: Universidad de Murcia
     year: 2015
   - course: BSc in Biomedicine
     institution: Universitat Autonoma de Barcelona
@@ -19,6 +19,7 @@ interests:
 - Epigenomics
 - Gene regulation
 - Bioinformatic methods for omics data analysis
+- Plotting and visualization
 name: Mireia Ramos-Rodríguez
 organizations:
 - name: Endocrine Regulatory Genomics, IGTP

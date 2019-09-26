@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RLadies | Bio-Rants</title>
+    <link>/tags/rladies/</link>
+      <atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+    <description>RLadies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>RLadies</title>
+      <link>/tags/rladies/</link>
+    </image>
+    
+    <item>
+      <title>R-Ladies Barcelona Organization</title>
+      <link>/project/rladies-barcelona/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/rladies-barcelona/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
