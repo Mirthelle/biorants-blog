@@ -13,16 +13,17 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [] #Islet-Regulome-Browser
+#projects: [] #Islet-Regulome-Browser
 publication: '*Methods In Molecular Biology*'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-04-01T00:00:00Z"
-slides: [] #example
+# slides: [] #example
 summary: []
 tags:
-- Source Themes
+- Epigenomics
+- ATAC-seq
 title: Assay for Transposase Accessible Chromatin (ATAC-Seq) to Chart the Open Chromatin Landscape of Human Pancreatic Islets
 url_code: ""
 url_dataset: ""
@@ -34,12 +35,3 @@ url_pdf: https://link.springer.com/protocol/10.1007%2F978-1-4939-7768-0_11
 # url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

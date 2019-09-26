@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eelco J. P. de Koning | Bio-Rants</title>
-    <link>/authors/eelco-j.-p.-de-koning/</link>
-      <atom:link href="/authors/eelco-j.-p.-de-koning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eelco J. P. de Koning</description>
+    <title>Islet Regulome Browser | Bio-Rants</title>
+    <link>/tags/islet-regulome-browser/</link>
+      <atom:link href="/tags/islet-regulome-browser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Islet Regulome Browser</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Eelco J. P. de Koning</title>
-      <link>/authors/eelco-j.-p.-de-koning/</link>
+      <title>Islet Regulome Browser</title>
+      <link>/tags/islet-regulome-browser/</link>
     </image>
     
     <item>
@@ -17,6 +17,14 @@
       <link>/publication/enhancer-hubs-t2d/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/publication/enhancer-hubs-t2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Islet Regulome Browser</title>
+      <link>/publication/the-islet-regulome-browser/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/the-islet-regulome-browser/</guid>
       <description></description>
     </item>
     

@@ -222,6 +222,12 @@
   </url>
   
   <url>
+    <loc>/tags/islet-regulome-browser/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/javier-garcia-hurtado/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -409,18 +415,18 @@
   </url>
   
   <url>
+    <loc>/tags/atac-seq/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/methods-atacseq/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/helena-raurell-vila/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -449,6 +455,12 @@
   </url>
   
   <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/the-islet-regulome-browser/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -462,12 +474,6 @@
   <url>
     <loc>/project/islet-regulome-browser/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/shiny/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

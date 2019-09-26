@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Islet Regulome Browser</title>
+      <link>/tags/islet-regulome-browser/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/islet-regulome-browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>T2D</title>
       <link>/tags/t2d/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
@@ -61,10 +69,10 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>ATAC-seq</title>
+      <link>/tags/atac-seq/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/atac-seq/</guid>
       <description></description>
     </item>
     
@@ -77,18 +85,18 @@
     </item>
     
     <item>
-      <title>Islet Regulome Borwser</title>
-      <link>/tags/islet-regulome-borwser/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/islet-regulome-borwser/</guid>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shiny</title>
-      <link>/tags/shiny/</link>
+      <title>Islet Regulome Borwser</title>
+      <link>/tags/islet-regulome-borwser/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/shiny/</guid>
+      <guid>/tags/islet-regulome-borwser/</guid>
       <description></description>
     </item>
     

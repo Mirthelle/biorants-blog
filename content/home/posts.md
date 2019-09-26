@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<!-- See all [blog posts]({{< ref "/post/_index.md" >}}) -->

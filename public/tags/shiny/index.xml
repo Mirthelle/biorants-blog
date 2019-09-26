@@ -5,7 +5,7 @@
     <link>/tags/shiny/</link>
       <atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     <description>Shiny</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shiny</title>
@@ -13,11 +13,25 @@
     </image>
     
     <item>
+      <title>The Islet Regulome Browser</title>
+      <link>/publication/the-islet-regulome-browser/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/the-islet-regulome-browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Islet Regulome Browser</title>
       <link>/project/islet-regulome-browser/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/islet-regulome-browser/</guid>
-      <description>&lt;p&gt;What is this text? Yes yes is a summary of the project&lt;/p&gt;
+      <description>&lt;p&gt;The Islet Regulome Browser is a visualization tool that provides access to interactive exploration of pancreatic islet genomic data. It can be accessed at &lt;a href=&#34;isletregulome.org&#34; target=&#34;_blank&#34;&gt;isletregulome.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The code used for generating the Islet Regulome Browser can be found in several github repositories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[Shiny Islet Regulome Browser](). It contains the code for generating the Shiny app at &lt;a href=&#34;isletregulome.org&#34; target=&#34;_blank&#34;&gt;isletregulome.org&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

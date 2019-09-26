@@ -11,7 +11,7 @@ image:
   caption: '[The Islet Regulome Browser](http://www.isletregulome.org)'
   focal_point: ""
   preview_only: false
-projects: [] #Islet-Regulome-Browser
+projects: [islet-regulome-browser]
 publication: '*Frontiers in Genetics*'
 publication_short: ""
 publication_types:
@@ -20,7 +20,10 @@ publishDate: "2017-02-14T00:00:00Z"
 slides: [] #example
 summary: []
 tags:
-- Source Themes
+- shiny
+- r
+- Islet Regulome Browser
+- Epigenomics
 title: The Islet Regulome Browser
 url_code: "https://github.com/mireia-bioinfo/isletregulome_shiny"
 url_dataset: ""
@@ -32,12 +35,3 @@ url_pdf: https://www.frontiersin.org/articles/10.3389/fgene.2017.00013/pdf
 # url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

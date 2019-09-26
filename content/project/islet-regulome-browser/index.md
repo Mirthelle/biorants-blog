@@ -5,6 +5,10 @@ image:
   caption: The Islet Regulome Browser
   focal_point: Smart
 links:
+- icon: link
+  icon_pack: fas
+  name: Website
+  url: http://isletregulome.org
 - icon: github
   icon_pack: fab
   name: plotRegulome
@@ -26,4 +30,8 @@ url_slides: ""
 url_video: ""
 ---
 
-What is this text? Yes yes is a summary of the project
+The Islet Regulome Browser is a visualization tool that provides access to interactive exploration of pancreatic islet genomic data. It can be accessed at [isletregulome.org](isletregulome.org).
+
+The code used for generating the Islet Regulome Browser can be found in several github repositories:
+
+- [Shiny Islet Regulome Browser](). It contains the code for generating the Shiny app at [isletregulome.org](isletregulome.org).
