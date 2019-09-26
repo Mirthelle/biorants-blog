@@ -32,6 +32,7 @@ url_video: ""
 
 The Islet Regulome Browser is a visualization tool that provides access to interactive exploration of pancreatic islet genomic data. It can be accessed at [isletregulome.org](isletregulome.org).
 
-The code used for generating the Islet Regulome Browser can be found in several github repositories:
+The code used for generating the Islet Regulome Browser can be found in two different github repositories:
 
-- [Shiny Islet Regulome Browser](). It contains the code for generating the Shiny app at [isletregulome.org](isletregulome.org).
+- [Shiny Islet Regulome Browser](https://github.com/mireia-bioinfo/isletregulome_shiny). It contains the code for generating the Shiny app at [isletregulome.org](isletregulome.org).
+- [plotRegulome R package](https://github.com/mireia-bioinfo/plotRegulome). R package with the functions needed for proiducing the Islet Regulome plots.
