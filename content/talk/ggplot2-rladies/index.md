@@ -1,14 +1,11 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: "In this workshop we will learn the basics of how ggplot2 works and how to easily change the looks of our plots. We will also explore other R packages developed to improve the capabilities of ggplot2: make interactive plots, themes & color palettes, and many more things!"
 all_day: false
 authors: []
 date: "2019-10-15T19:00:00Z"
 date_end: "2019-10-15T20:30:00Z"
 event: R-Ladies Barcelona Workshop
-event_url: https://example.org
+event_url: https://www.meetup.com/rladies-barcelona/events/264920033/
 featured: false
 image:
   caption: 'R-Ladies Barcelona'
@@ -22,27 +19,13 @@ location: Barcelona, Spain
 math: true
 projects:
 - rladies-barcelona
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-10-15T00:00:00Z"
 slides: "" #example
 summary: Learn how to work with `ggplot2` and extend its capabilities with other related R packages.
-tags: [ggplot2, R]
+tags: [ggplot2, R, xaringan]
 title: Improve your plots with ggplot2
-url_code: ""
+url_code: "https://github.com/mireia-bioinfo/workshop_ggplot2"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://mireia-bioinfo.github.io/workshop_ggplot2/index.html#1"
 url_video: ""
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-
-Talk
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

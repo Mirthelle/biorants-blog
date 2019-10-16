@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ggplot2 | Bio-Rants</title>
-    <link>/tags/ggplot2/</link>
-      <atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
-    <description>ggplot2</description>
+    <title>xaringan | Bio-Rants</title>
+    <link>/tags/xaringan/</link>
+      <atom:link href="/tags/xaringan/index.xml" rel="self" type="application/rss+xml" />
+    <description>xaringan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 19:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>ggplot2</title>
-      <link>/tags/ggplot2/</link>
+      <title>xaringan</title>
+      <link>/tags/xaringan/</link>
     </image>
     
     <item>

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>ggplot2</title>
+      <link>/tags/ggplot2/</link>
+      <pubDate>Tue, 15 Oct 2019 19:00:00 +0000</pubDate>
+      <guid>/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/tags/r/</link>
       <pubDate>Tue, 15 Oct 2019 19:00:00 +0000</pubDate>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>ggplot2</title>
-      <link>/tags/ggplot2/</link>
+      <title>xaringan</title>
+      <link>/tags/xaringan/</link>
       <pubDate>Tue, 15 Oct 2019 19:00:00 +0000</pubDate>
-      <guid>/tags/ggplot2/</guid>
+      <guid>/tags/xaringan/</guid>
       <description></description>
     </item>
     

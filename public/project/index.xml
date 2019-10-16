@@ -27,10 +27,11 @@
       <guid>/project/islet-regulome-browser/</guid>
       <description>&lt;p&gt;The Islet Regulome Browser is a visualization tool that provides access to interactive exploration of pancreatic islet genomic data. It can be accessed at &lt;a href=&#34;isletregulome.org&#34; target=&#34;_blank&#34;&gt;isletregulome.org&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The code used for generating the Islet Regulome Browser can be found in several github repositories:&lt;/p&gt;
+&lt;p&gt;The code used for generating the Islet Regulome Browser can be found in two different github repositories:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;[Shiny Islet Regulome Browser](). It contains the code for generating the Shiny app at &lt;a href=&#34;isletregulome.org&#34; target=&#34;_blank&#34;&gt;isletregulome.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mireia-bioinfo/isletregulome_shiny&#34; target=&#34;_blank&#34;&gt;Shiny Islet Regulome Browser&lt;/a&gt;. It contains the code for generating the Shiny app at &lt;a href=&#34;isletregulome.org&#34; target=&#34;_blank&#34;&gt;isletregulome.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mireia-bioinfo/plotRegulome&#34; target=&#34;_blank&#34;&gt;plotRegulome R package&lt;/a&gt;. R package with the functions needed for proiducing the Islet Regulome plots.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -40,7 +41,15 @@
       <link>/project/betacells-t1d/</link>
       <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
       <guid>/project/betacells-t1d/</guid>
-      <description>&lt;p&gt;What is this text? Yes yes is a summary of the project&lt;/p&gt;
+      <description>&lt;p&gt;Type 1 diabetes (T1D) is a multifactorial disease that develops as a result of the interaction of genetic predisposition, environment and immune (dis)regulation. When this factors converge, the disease is triggered, with a pancreatic islets immune infiltration (insulitis) that results in a selective destruction of pancreatic beta-cells, the sole source of insulin in the body. Once the clinical symptoms manifest, beta-cell mass is almost depleted and the patients become insulin-dependent for life.&lt;/p&gt;
+
+&lt;p&gt;Traditionally, studies have been focusing in understanding the causes of the immune dis-regulation and developing treatments that prevent the recognition of auto-antigens. Nevertheless, the exact molecular mechanisms that underly how the disease is triggered and the nature of the immune dis-regulation is still unclear.&lt;/p&gt;
+
+&lt;p&gt;As the focus has been directed towards the immune system, beta-cells have been con- sidered passive bystanders of the process. However, it is now clear that during insulitis and before their destruction begins, a dialog is established between beta-cells and immune cells mediated by the secretion of cytokines and chemokines. Recently, it has been postulated that a misunderstanding in this dialog is what leads to beta-cell destruction, thus assigning to beta-cells a central and active role in the disease progression.&lt;/p&gt;
+
+&lt;p&gt;In support of this hypothesis, many T1D associated genes were found to be expressed in beta-cells. Moreover, GWAS studies which identify SNPs associated with risk of developing T1D, with the important exception of the HLA loci, failed in identifying causal variants with a functional impact in immune cells. Interestingly, many of these SNPs are not found in coding regions of the genome, pointing to a possible regulatory role of these variants that could be exert by affecting non-coding regulatory elements.&lt;/p&gt;
+
+&lt;p&gt;The hypothesis that drives this project is that beta-cells regulatory networks involved in response to T1D-like stimuli are responsible for a fraction of the genetic signal associated with T1D. Accordingly, our main goal consists on characterizing tissue-specific cis-regulatory networks critical to the activation and modulation of beta-cell survival.&lt;/p&gt;
 </description>
     </item>
     
